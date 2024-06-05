@@ -28,7 +28,7 @@ def test_HW4():
         "\nEnter change amount to convert: ",
         "2 quarter(s)",
         "1 dime(s)",
-        "1 nickle(s)",
+        "1 nickel(s)",
         "2 penny(ies)",
         "Want to calculate another amount? (y/n): ",
         "\nEnter change amount to convert: ",
